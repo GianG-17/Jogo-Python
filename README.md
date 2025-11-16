@@ -1,7 +1,6 @@
 # 🏰 Fuga da Masmorra — Jogo de Labirinto em Python
 
-**Fuga da Masmorra** é um jogo de aventura no terminal onde o jogador precisa escapar de um labirinto repleto de paredes, armadilhas escondidas e visão limitada.  
-Com energia diminuindo a cada passo.
+**Fuga da Masmorra** é um jogo de aventura no terminal onde o jogador precisa escapar de um labirinto repleto de paredes, armadilhas escondidas e visão limitada com energia diminuindo a cada passo.
 
 ---
 
